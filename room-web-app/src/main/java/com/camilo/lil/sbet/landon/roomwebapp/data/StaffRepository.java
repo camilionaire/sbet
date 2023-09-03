@@ -1,0 +1,2 @@
+package com.camilo.lil.sbet.landon.roomwebapp.data;public interface StaffRepository {
+}
